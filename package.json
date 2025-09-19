@@ -1,0 +1,13 @@
+{
+  "name": "ai-competitor-change-scanner",
+  "version": "1.0.0",
+  "description": "Simple Puppeteer script to detect changes on competitor websites",
+  "main": "scan.js",
+  "scripts": {
+    "start": "node scan.js https://example.com example"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  },
+  "license": "MIT"
+}
